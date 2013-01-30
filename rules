@@ -1,4 +1,7 @@
+
 Hypothesis
+0. By the way forget about SOLID. Nobody can remenber what the letter.
+And knobody can explain the Liskov Substition in one shot.
 1. Brain can only retain a few simple rules to apply when exercising.
 2. Developers will push the same kind of the code that they see in the codebase. A team should show the exemples to a newcomer. Otherwise they cannot expect him to have high standard
 
@@ -26,8 +29,5 @@ Other objective
   on code standard is not respected. He will push the same crappy code.)
 + Living code should be the documentation.
 (Newcomer should only look at the code to know what are the standard)
-
-Code documentation implementation
-
 
 

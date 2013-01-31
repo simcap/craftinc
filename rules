@@ -1,9 +1,9 @@
-
 Hypothesis
-0. By the way forget about SOLID. Nobody can remenber what the letter.
+0. Forget about SOLID. Nobody can remenber what the letter means.
 And knobody can explain the Liskov Substition in one shot.
 1. Brain can only retain a few simple rules to apply when exercising.
-2. Developers will push the same kind of the code that they see in the codebase. A team should show the exemples to a newcomer. Otherwise they cannot expect him to have high standard
+2. Developers will push the same kind of the code that they see in the codebase. 
+A team should show the exemples to a newcomer. Otherwise they cannot expect him to have high standard
 
 Idea
 Implement 3 rules that have multiple consequences & corrolaries

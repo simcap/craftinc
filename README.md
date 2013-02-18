@@ -17,7 +17,7 @@ Strategy based on the hypothesis above.
 
 ### 3 coding practices only
 
-It should require not effort to retain those 3 simple rules. *Still they have multiple hidden consequences & corrolaries*.
+It should require not effort to retain those 3 simple rules. **Still they have multiple hidden consequences & corrolaries**.
 
 (For each we specify the pros and the possible cons)
 

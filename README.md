@@ -11,17 +11,15 @@ and nobody can explain the goal of the Liskov Substition in one shot.
 3. In the long run, a developers will always push the same kind of code that they see in the codebase.
 4. A central word document on the coding standard and pratices for a team or company is a heresy and is completely counter productive.
 
-A team should show the exemples to a newcomer. Otherwise they cannot expect him to have high standard
-
 ## The 3 items strategy
 
-Based on the hypothesis above.
+Strategy based on the hypothesis above.
 
 ### 3 coding practices only
 
-It should require not effort to retain those 3 simple rules. Still they have multiple hidden consequences & corrolaries.
+It should require not effort to retain those 3 simple rules. *Still they have multiple hidden consequences & corrolaries*.
 
-For each we specify the pros and the possible cons
+(For each we specify the pros and the possible cons)
 
 * SHORT CLASSES
     * \+ Enforce naturally the Single Responsiblity Principle
@@ -46,7 +44,7 @@ To better communicate & implements within the organization we can extend the ide
 * Best possible name
 
 #### 3 XP practices
-* Pair Programming (to implements before TDD actually)
+* Pair Programming
 * Test Driven Development
 * Continous Integration
 
